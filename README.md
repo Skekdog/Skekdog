@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @ScellyDog
-
-<!---
-ScellyDog/ScellyDog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Skekdog
+- I do things with questionable quality
+- Do not question the quality.
