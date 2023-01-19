@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Skekdog
-- I do things with questionable quality
-- Do not question the quality.
+- You can assume I exist, or you can choose to believe I do not exist
