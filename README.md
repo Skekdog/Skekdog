@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @Skekdog, maybe
+- 👋 Hi, I’m @Skekdog
+- Great things shall be soon
