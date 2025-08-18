@@ -1,2 +1,2 @@
-- Mostly working on Roblox games and plugins now
+- Solo developer, mostly working on Roblox games and plugins now
 - Also familiar (and experimenting) with other programming contexts
