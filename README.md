@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Skekdog
-- Great things shall be soon
+- Mostly working on Roblox games and plugins now
+- Also familiar (and experimenting) with other programming contexts
