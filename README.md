@@ -1,2 +1,2 @@
-- Solo developer. Created some now-open-source games on Roblox - namely [Traitor!](https://github.com/Skekdog/Traitor).
+- Solo developer. Created some now-open-source games on Roblox - namely [Traitor!](https://github.com/Skekdog/Traitor)
 - Currently looking to move to other development contexts.
