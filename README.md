@@ -1,2 +1,2 @@
-- Solo developer, mostly working on Roblox games and plugins now
-- Also familiar (and experimenting) with other programming contexts
+- Solo developer. Created some now-open-source games on Roblox - namely [Traitor!](https://github.com/Skekdog/Traitor).
+- Currently looking to move to other development contexts.
